@@ -1,4 +1,4 @@
-# bitcointicker
+# BitCoinTicker App Using Api
 
 A new Flutter project.
 
